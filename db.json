@@ -1,0 +1,27 @@
+{
+  "party": [
+    {
+      "0": {
+        "title": "Party Name",
+        "type": "text",
+        "value": "bhargav"
+      },
+      "1": {
+        "title": "Party Short-Code",
+        "type": "text",
+        "value": "bhargav12"
+      },
+      "id": "9c25"
+    },
+    {
+      "id": "df8d",
+      "party_name": "bhajap",
+      "short_code": "bjp"
+    },
+    {
+      "id": "4670",
+      "election_name": "bhargav",
+      "date": "35467-05-04"
+    }
+  ]
+}
